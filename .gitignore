@@ -1,0 +1,6 @@
+# Build output
+*.o
+beatbutton
+
+# Configuration header
+config.h
